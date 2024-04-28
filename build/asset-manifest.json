@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manavpatel1730/textUtiles/static/css/main.48eaed71.css",
+    "main.js": "/manavpatel1730/textUtiles/static/js/main.71054981.js",
+    "static/js/453.86b2f617.chunk.js": "/manavpatel1730/textUtiles/static/js/453.86b2f617.chunk.js",
+    "static/media/manav.png": "/manavpatel1730/textUtiles/static/media/manav.5444f4393ed5fd442f06.png",
+    "index.html": "/manavpatel1730/textUtiles/index.html",
+    "main.48eaed71.css.map": "/manavpatel1730/textUtiles/static/css/main.48eaed71.css.map",
+    "main.71054981.js.map": "/manavpatel1730/textUtiles/static/js/main.71054981.js.map",
+    "453.86b2f617.chunk.js.map": "/manavpatel1730/textUtiles/static/js/453.86b2f617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48eaed71.css",
+    "static/js/main.71054981.js"
+  ]
+}
